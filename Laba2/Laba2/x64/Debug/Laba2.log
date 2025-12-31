@@ -1,0 +1,12 @@
+﻿  Laba2.cpp
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(409,45): warning C4267: =: преобразование из "size_t" в "T"; возможна потеря данных
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(409,45): warning C4267:         with
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(409,45): warning C4267:         [
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(409,45): warning C4267:             T=int
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(409,45): warning C4267:         ]
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(410,51): warning C4267: =: преобразование из "size_t" в "T"; возможна потеря данных
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(410,51): warning C4267:         with
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(410,51): warning C4267:         [
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(410,51): warning C4267:             T=int
+C:\Users\Святослав\Desktop\C++ program\Laba2\Laba2\Laba2.cpp(410,51): warning C4267:         ]
+  Laba2.vcxproj -> C:\Users\Святослав\Desktop\C++ program\Laba2\x64\Debug\Laba2.exe
